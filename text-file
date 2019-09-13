@@ -1,0 +1,56 @@
+DISK OK - free space: / 3212 MB (69.00% inode=91%)
+ /boot 399 MB (88.47% inode=100%)
+ /home 2262 MB (99.66% inode=100%)
+ /tmp 1400 MB (99.81% inode=100%)
+ /opt 4644 MB (99.76% inode=100%)
+ /var/log 1787 MB (96.64% inode=100%)
+ /opt/ptin 5485 MB (97.73% inode=100%)
+ /var/log/ptin 2743 MB (48.88% inode=100%)
+ /var/lib/rabbitmq 6063 MB (99.55% inode=100%)
+ /var/log/rabbitmq 1846 MB (99.83% inode=100%)
+ /history 14185 MB (99.73% inode=100%)
+| /=1442MB
+4419
+3928
+0
+4911 /boot=51MB
+428
+380
+0
+476 /home=7MB
+2158
+1918
+0
+2398 /tmp=2MB
+1331
+1183
+0
+1479 /opt=10MB
+4419
+3928
+0
+4911 /var/log=61MB
+1755
+1560
+0
+1951 /opt/ptin=126MB
+5327
+4735
+0
+5919 /var/log/ptin=2868MB
+5327
+4735
+0
+5919 /var/lib/rabbitmq=27MB
+5780
+5138
+0
+6423 /var/log/rabbitmq=3MB
+1755
+1560
+0
+1951 /history=37MB
+13491
+11992
+0
+14990
