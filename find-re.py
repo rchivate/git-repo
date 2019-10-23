@@ -6,4 +6,4 @@ print(f.read())
 #Comment ahe
 m = f.read()
 x = re.search("MB", m)
-print x.string[x.start():x.end()]
+print(x.string[x.start():x.end()])
